@@ -2,10 +2,10 @@
   "name": "vscode-i18n-linter",
   "displayName": "kiwi-linter",
   "description": "A VSCode extension to identify and extract string literals for js(x)/ts(x) files",
-  "version": "1.5.7",
+  "version": "1.5.8",
   "publisher": "zwenjian",
   "engines": {
-     "vscode": "^1.103.0"
+     "vscode": "^1.100.0"
   },
   "categories": [
     "Other",
@@ -215,7 +215,7 @@
     "@types/fs-extra": "^5.0.4",
     "@types/mocha": "^2.2.42",
     "@types/node": "22.18.10",
-    "@types/vscode": "1.103.0",
+    "@types/vscode": "1.100.0",
     "@types/react": "19.2.2",
     "@types/react-dom": "19.2.2",
     "esbuild": "0.25.10",
